@@ -1,8 +1,9 @@
 Hola, soy Meli Gimenez 👋
 
-<!--
-**MelinaGimenez/MelinaGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gracias a Digital House ingresé al desarrollo Full Stack
 
-Here are some ideas to get you started:
+Pude aprender mucho sobre Javascript y React, asi como sobre CSS, HTML, Git, MySQL, entre muchas cosas más
 
-- 🌱 Estoy aprendiendo en Digital House sobre programación Web Full Stack
+Logramos desarrollar, con mis compañeros de equipo, una página web funcional (ecommerce) basada en la venta de juegos online
+
+Ahora busco ingresar a una empresa donde me presenten nuevos desafíos y seguir aprendiendo tanto en el area de back-end como en el de front-end 😃
